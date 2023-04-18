@@ -1,0 +1,18 @@
+{
+  "name": "pnpm-stops-with-no-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rules": "github:Yara-Rules/rules",
+    "turbo": "^1.9.3",
+    "vite": "^4.2.2",
+    "vue": "^3.2.47"
+  }
+}
